@@ -1,0 +1,7 @@
+.projects-container {
+  margin: 50px;
+}
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,34 @@
+.large-size {
+  border: 2px solid black;
+  width: 800px;
+  height: 500px;
+  margin: 10px;
+  z-index: 10;
+  /* put in the center */
+}
+
+.small-size {
+  border: 2px solid black;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+.small-size:hover {
+  background-color: rgb(137, 143, 161);
+  border: 2px solid red;
+  color: #242424;
+  border-radius: 0;
+}
+
+.tile-title {
+  background-color: black;
+  color: #ffffff;
+}
+
+.tile-github-footer {
+  text-decoration: none;
+  color: black !important;
+}
+.tile-github-footer:hover {
+  color: orangered;
+}

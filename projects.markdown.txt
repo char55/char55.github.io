@@ -1,0 +1,28 @@
+# Welcome
+
+### [LinkedIn](https://www.linkedin.com/in/charlotteharas/)
+
+### [Resume](https://resume.creddle.io/resume/dmbw2wy5s4u)
+
+# Projects
+
+### [FoodSpace](https://github.com/char55/FoodSpace)
+A mobile application for finding and sharing recipes, searchable via categories.
+
+### [Food Pickup App](https://github.com/char55/Food-PickUp-App)
+A UberEats style application, fully phone responsive, and uses twilio's api to text users.
+
+### [Chats-a-lot](https://github.com/char55/Chats-a-lot)
+ChattyApp enables users from various locations to chat together, on one server, with picture/gif sharing capabilities
+
+### [Tiny App](https://github.com/char55/tinyAppProject)
+TinyApp is a full stack web application that allows users to shorten long URLs
+
+### [Tweeter](https://github.com/char55/tweeter)
+A twitter clone project, to practice front-end development.
+[Heroku link](https://tweeter-char55.herokuapp.com/)
+
+
+## Contact Information
+
+email: haras.charlotte@gmail.com
