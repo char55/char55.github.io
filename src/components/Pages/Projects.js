@@ -1,9 +1,10 @@
 import React from 'react';
 import Tile from '../Tile';
 import './Projects.css';
-import projects from '../../dataInput';
+import { projects } from '../../dataInput';
 
 function Projects() {
+  console.log(projects);
   // links must be full URL https://www.google.ca
   return (
     <>

@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import "./Tile.css";
+import React, { useState } from 'react';
+import './Tile.css';
 
 function Tile({ projectName, projectLink, projectDescription, githubLink }) {
   const [size, setSize] = useState(false);
@@ -9,7 +9,7 @@ function Tile({ projectName, projectLink, projectDescription, githubLink }) {
   return projectName && projectDescription && githubLink ? (
     <div
       onClick={handleSize}
-      className={"small-size"}
+      className={'small-size'}
       // className={size ? "large-size" : "small-size"}
     >
       <a href={projectLink ? projectLink : githubLink}>
@@ -21,10 +21,10 @@ function Tile({ projectName, projectLink, projectDescription, githubLink }) {
         // when click fo rlarger size, all of site gains shadow and tile expands and fills screen
       >
         {projectDescription}
+        <a href={githubLink}>
+          <div className="tile-github-footer">code on github</div>
+        </a>
       </div>
-      <a href={githubLink}>
-        <div className="tile-github-footer">code on github</div>
-      </a>
     </div>
   ) : (
     <>Missing vital information</>
