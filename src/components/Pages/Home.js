@@ -1,5 +1,5 @@
-import React from "react";
-import "./Home.css";
+import React from 'react';
+import './Home.css';
 
 function Home() {
   return (
@@ -7,7 +7,8 @@ function Home() {
       <div className="home-container">
         <div>Hello! Welcome to my (new) website</div>
         {/* have a cool video playing or something */}
-        I'm adapt in Javascript, speak english and french, and enjoy reading,
+        <br />
+        I'm adapt in Javascript, speak english and french, enjoy reading and
         creative writing, and watching too much netflix.
         {/* have a gift or video here = something funny */}
       </div>
