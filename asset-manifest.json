@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/char55.github.io-Beta/static/css/main.865c46e9.chunk.css",
+    "main.js": "/char55.github.io-Beta/static/js/main.1cd86bc2.chunk.js",
+    "main.js.map": "/char55.github.io-Beta/static/js/main.1cd86bc2.chunk.js.map",
+    "runtime-main.js": "/char55.github.io-Beta/static/js/runtime-main.f199310f.js",
+    "runtime-main.js.map": "/char55.github.io-Beta/static/js/runtime-main.f199310f.js.map",
+    "static/js/2.1ccd4b89.chunk.js": "/char55.github.io-Beta/static/js/2.1ccd4b89.chunk.js",
+    "static/js/2.1ccd4b89.chunk.js.map": "/char55.github.io-Beta/static/js/2.1ccd4b89.chunk.js.map",
+    "index.html": "/char55.github.io-Beta/index.html",
+    "static/css/main.865c46e9.chunk.css.map": "/char55.github.io-Beta/static/css/main.865c46e9.chunk.css.map",
+    "static/js/2.1ccd4b89.chunk.js.LICENSE.txt": "/char55.github.io-Beta/static/js/2.1ccd4b89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f199310f.js",
+    "static/js/2.1ccd4b89.chunk.js",
+    "static/css/main.865c46e9.chunk.css",
+    "static/js/main.1cd86bc2.chunk.js"
+  ]
+}
